@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-// Import the ERC20 token contract from OpenZeppelin
+
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
 contract Dice is ERC20 {
